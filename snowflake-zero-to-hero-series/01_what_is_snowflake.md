@@ -91,7 +91,3 @@ Companies are consolidating their data stacks onto Snowflake because:
 🔔 Follow along if you want to master Snowflake, one concept at a time.
 
 **Next up → Poll: Which cloud provider do you use Snowflake on? ☁️**
-
----
-
-`#Snowflake #DataEngineering #CloudData #DataWarehouse #DataPlatform #Analytics #SQL #SnowflakeLinkedInSeries`
