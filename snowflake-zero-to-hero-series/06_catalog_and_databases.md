@@ -235,23 +235,6 @@ LIMIT 10;
 
 ---
 
-## 🧠 Quick Quiz
-
-**Q: Can you query across multiple databases in a single SQL statement?**
-
-**A:** YES! Snowflake fully supports cross-database joins:
-
-```sql
-SELECT o.order_id, c.customer_name
-FROM sales_db.public.orders o
-JOIN customers_db.public.customers c
-  ON o.customer_id = c.id;
-```
-
-No linked servers, no federation — just use fully qualified names!
-
----
-
 *This is Post 6 of my Snowflake LinkedIn Series — a 130-post deep dive covering everything from architecture to Cortex AI.*
 
 🔔 Follow along if you want to master Snowflake, one concept at a time.
